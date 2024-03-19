@@ -16,7 +16,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Homelab - Design         | <a href="https://github.com/Cyogen/Homelab">HomeLab</a>|
 | Homelab - Improvement        | <a href="https://github.com/Cyogen/Home-Lab-2">HomeLab 2.0</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Cyogen/Homelab-Detection">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/Cyogen/Sec-Automation-w-SOAR">SOC Automation Lab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
