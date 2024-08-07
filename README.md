@@ -55,6 +55,7 @@ The following certification have been studied.  Extensive notes and preparations
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CySa-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="[https://img.shields.io/badge/-CDSA-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white](https://img.shields.io/badge/C-DSA)" />
 </div>
 
 ## Projects
