@@ -56,3 +56,13 @@ The following certification have been studied.  Extensive notes and preparations
 ## Projects
 - Detection Lab
 - SOC Automation Project
+- Pwn.college
+- Hack The Box Academy - SOC Analyst
+- Try Hack Me - Red Team/CTF
+- Harvard 2023 CS50 - Computer science/programming course
+- C++ : Arduino powered rechargeable widget with a large screen used as a marker for cash being removed from a live poker table (Time I spent working in a casino)
+- Assembly language Fibonacci number calculator
+- API JS HTML implementation
+- Home Lab - CyberSec lab
+- Wireshark Network Traffic Analysis
+- Splunk - SIEM SPL & Log Analysis
