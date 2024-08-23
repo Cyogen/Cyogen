@@ -17,14 +17,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Homelab - Improvement        | <a href="https://github.com/Cyogen/Home-Lab-2">HomeLab 2.0</a>|
 | SIEM (Splunk) - SPL Usage & Log Analysis          | <a href="https://github.com/Cyogen/Homelab-Detection">SPL Lab</a>|
 | Network Traffic Analysis                      | <a href="https://github.com/Cyogen/NTA/blob/main/README.md">NTA Lab |
-| SIEM (Splunk) - Sysmon                         | Coming Soon! |
-| SIEM (Elastic) - Threat Hunting                  | Coming Soon! |
 | Windows Attack & Defense: Kerberoasting        |  <a href="https://github.com/Cyogen/Kerberoasting">Kerberoasting</a>  |
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/Cyogen/Sec-Automation-w-SOAR">SOC Automation Lab</a>|
 | Case Management with TheHive                  | <a href="https://github.com/Cyogen/The-Hive/blob/main/README.md">SOC Automation Lab</a>|
-| Scripting and Automation for Threat Mitigation | Coming Soon! |
 | Simple HTTP JS API implementation         | <a href="https://github.com/Cyogen/API-Implementation">API Implementation</a>|
-
+| Harvard - CS50 | Coming Soon! |
 
 ## Tools
 
