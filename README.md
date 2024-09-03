@@ -19,7 +19,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Network Traffic Analysis                      | <a href="https://github.com/Cyogen/NTA/blob/main/README.md">NTA Lab |
 | Windows Attack & Defense: Kerberoasting        |  <a href="https://github.com/Cyogen/Kerberoasting">Kerberoasting</a>  |
 | Simple HTTP JS API implementation         | <a href="https://github.com/Cyogen/API-Implementation">API Implementation</a>|
-| Harvard - CS50 | Coming Soon! |
+| Harvard - CS50 | <a href="https://github.com/code50/33054558">In Progress</a> |
 
 ## Tools
 
