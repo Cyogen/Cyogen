@@ -19,6 +19,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Network Traffic Analysis                      | <a href="https://github.com/Cyogen/NTA/blob/main/README.md">NTA Lab |
 | Network Traffic Analysis - Rogue AP        | <a href="https://github.com/Cyogen/NTA-Rogue-AP/blob/main/README.md">Rogue AP Lab |
 | Windows Attack & Defense: Kerberoasting        |  <a href="https://github.com/Cyogen/Kerberoasting">Kerberoasting</a>  |
+| StuxBot (R.A.T) Hunting        | <a href="https://github.com/Cyogen/HuntingStuxbot/blob/main/README.md">StuxBot</a>    |
 | Simple HTTP JS API implementation         | <a href="https://github.com/Cyogen/API-Implementation">API Implementation</a>|
 | Harvard - CS50 | <a href="https://github.com/code50/33054558">In Progress</a> |
 
