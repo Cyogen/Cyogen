@@ -31,6 +31,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
     <img src="https://img.shields.io/badge/-Snort-615900?&style=for-the-badge&logo=Snort&logoColor=white" />
+    <img src="https://img.shields.io/badge/OSCP&style=flat&logo=OSCP&logoColor=orange" />
 </div>
 
 ### Endpoint
