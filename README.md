@@ -20,7 +20,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | StuxBot (R.A.T) Hunting        | <a href="https://github.com/Cyogen/HuntingStuxbot/blob/main/README.md">StuxBot</a>    |
 | Simple HTTP JS API implementation         | <a href="https://github.com/Cyogen/API-Implementation">API Implementation</a>|
 | OWASP-A01-Broken Access Control  (In Progress)  | <a href="https://github.com/Cyogen/OWASP-A01-Broken-Access-Control">Incomplete Playbook</a>|
-| Harvard - CS50 | <a href="https://github.com/code50/33054558">In Progress</a> |
+| Harvard - CS50 | <a href="https://github.com/code50/33054558">CS50</a> |
 
 ## Tools
 
