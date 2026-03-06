@@ -14,6 +14,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | Homelab - Design         | <a href="https://github.com/Cyogen/Homelab">HomeLab</a>|
 | Homelab - Improvement        | <a href="https://github.com/Cyogen/Home-Lab-2">HomeLab 2.0</a>|
+| CyberSec Blog              | <a href="https://cyogen.github.io">Blog</a>|
 | SIEM (Splunk) - SPL Usage & Log Analysis          | <a href="https://github.com/Cyogen/Homelab-Detection">SPL Lab</a>|
 | Network Traffic Analysis                      | <a href="https://github.com/Cyogen/NTA/blob/main/README.md">NTA Lab |
 | Network Traffic Analysis - Rogue AP        | <a href="https://github.com/Cyogen/NTA-Rogue-AP/blob/main/README.md">Rogue AP Lab |
