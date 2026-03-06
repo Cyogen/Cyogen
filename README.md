@@ -2,7 +2,7 @@
 ### This Github is under construction. Coming soon.
 <a href="https://linkedin.com/in/frankhl"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://cyogen.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/🧠-CTF_Writeups-4B0E75?style=for-the-badge">
+  <img src="https://img.shields.io/badge/CTF-Blog-4B0E75?style=for-the-badge">
 </a>
 ## Objective
 
