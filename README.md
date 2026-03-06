@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ### This Github is under construction. Coming soon.
 <a href="https://linkedin.com/in/frankhl"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-[![CTF Blog](https://img.shields.io/badge/🧠-CTF_Writeups-4B0E75?style=for-the-badge)](https://cyogen.github.io)
+[![CTF Blog](https://img.shields.io/badge/CyberSec-Blog-4B0E75?style=for-the-badge)](https://cyogen.github.io)
 ## Objective
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
