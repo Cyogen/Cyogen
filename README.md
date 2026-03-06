@@ -71,3 +71,4 @@ The following certification have been studied.  Extensive notes and preparations
 - Home Lab - CyberSec lab
 - Wireshark Network Traffic Analysis
 - Splunk - SIEM SPL & Log Analysis
+- HTB/THM CTFs are being formatted properly for the <a href="https://cyogen.github.io">blog<a/>
