@@ -63,6 +63,7 @@ The following certification have been studied.  Extensive notes and preparations
 - SOC Automation Project
 - Pwn.college
 - Hack The Box Academy - SOC Analyst
+- Hack The Box Academy - Bug Bounty
 - Try Hack Me - Red Team/CTF
 - Harvard 2023 CS50 - Computer science/programming course
 - C++ : Arduino powered rechargeable widget with a large screen used as a marker for cash being removed from a live poker table (Time I spent working in a casino)
