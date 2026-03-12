@@ -51,11 +51,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-### Red Team 
-<div>
-  Prepping currently - <img src="https://img.shields.io/badge/OSCP-orange?style=for-the-badge&logo=offsec" />
-</div>
-
 ## Certifications
 Expired/ready to pass certifications:
 <div>
@@ -64,6 +59,11 @@ Expired/ready to pass certifications:
 <img src="https://img.shields.io/badge/-CySa-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="[https://img.shields.io/badge/-CDSA-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white](https://img.shields.io/badge/C-DSA)" />
 <img src="https://img.shields.io/badge/CCNA-0078D7?style=for-the-badge&logo=cisco&logoColor=white" />
+</div>
+
+### Certification in Progress
+<div>
+  <img src="https://img.shields.io/badge/OSCP-orange?style=for-the-badge&logo=offsec" />
 </div>
 
 ## Projects
