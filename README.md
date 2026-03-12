@@ -22,8 +22,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Windows Attack & Defense: Kerberoasting        |  <a href="https://github.com/Cyogen/Kerberoasting">Kerberoasting</a>  |
 | StuxBot (R.A.T) Hunting        | <a href="https://github.com/Cyogen/HuntingStuxbot/blob/main/README.md">StuxBot</a>    |
 | Simple HTTP JS API implementation         | <a href="https://github.com/Cyogen/API-Implementation">API Implementation</a>|
-| OWASP-A01-Broken Access Control  (In Progress)  | <a href="https://github.com/Cyogen/OWASP-A01-Broken-Access-Control">Incomplete Playbook</a>|
-| Harvard - CS50 | <a href="https://github.com/code50/33054558">CS50</a> |
+| OWASP-A01-Broken Access Control  (In Progress)  | <a href="https://github.com/Cyogen/OWASP-A01-Broken-Access-Control">Playbook - In-Progress</a>|
+| Harvard - CS50 (Online, non-credit) | <a href="https://github.com/code50/33054558">CS50</a> |
 | World of Warcraft Addon - Gear Score/Upgrade advisor | <a href="https://github.com/Cyogen/GearAdvisor/tree/main">GearAdvisor</a>
 | Local Ai API Twitch Chatbot | <a href="https://github.com/Cyogen/Claude_API_HTTP">Ai Chatbot</a>
 
@@ -36,7 +36,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
     <img src="https://img.shields.io/badge/-Snort-615900?&style=for-the-badge&logo=Snort&logoColor=white" />
-    <img src="https://img.shields.io/badge/OSCP-orange?style=for-the-badge&logo=offsec" />
+    
 </div>
 
 ### Endpoint
@@ -49,6 +49,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+### Red Team 
+<div>
+  Prepping currently - <img src="https://img.shields.io/badge/OSCP-orange?style=for-the-badge&logo=offsec" />
 </div>
 
 ## Certifications
