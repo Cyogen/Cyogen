@@ -8,9 +8,9 @@
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
 
-## Skills
+## Projects
 
-| Skill                                         | Associated Project         |
+| Project                                         | Link        |
 |-----------------------------------------------|----------------------------|
 | Homelab - Design         | <a href="https://github.com/Cyogen/Homelab">HomeLab</a>|
 | Homelab - Improvement        | <a href="https://github.com/Cyogen/Home-Lab-2">HomeLab 2.0</a>|
@@ -24,6 +24,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Simple HTTP JS API implementation         | <a href="https://github.com/Cyogen/API-Implementation">API Implementation</a>|
 | OWASP-A01-Broken Access Control  (In Progress)  | <a href="https://github.com/Cyogen/OWASP-A01-Broken-Access-Control">Incomplete Playbook</a>|
 | Harvard - CS50 | <a href="https://github.com/code50/33054558">CS50</a> |
+| World of Warcraft Addon - Gear Score/Upgrade advisor | <a href="https://github.com/Cyogen/GearAdvisor/tree/main">GearAdvisor</a>
+| Local Ai API Twitch Chatbot | <a href="https://github.com/Cyogen/Claude_API_HTTP">Ai Chatbot</a>
 
 ## Tools
 
@@ -50,12 +52,13 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-The following certification have been studied.  Extensive notes and preparations have been taken but have been unable to pay for them.
+Expired/ready to pass certifications:
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CySa-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="[https://img.shields.io/badge/-CDSA-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white](https://img.shields.io/badge/C-DSA)" />
+<img src="https://img.shields.io/badge/CCNA-0078D7?style=for-the-badge&logo=cisco&logoColor=white" />
 </div>
 
 ## Projects
@@ -66,10 +69,9 @@ The following certification have been studied.  Extensive notes and preparations
 - Hack The Box Academy - Bug Bounty
 - Try Hack Me - Red Team/CTF
 - Harvard 2023 CS50 - Computer science/programming course
-- C++ : Arduino powered rechargeable widget with a large screen used as a marker for cash being removed from a live poker table (Time I spent working in a casino)
-- Assembly language Fibonacci number calculator
+- Some starter JS/Python programming projects.
 - API JS HTML implementation
 - Home Lab - CyberSec lab
 - Wireshark Network Traffic Analysis
 - Splunk - SIEM SPL & Log Analysis
-- HTB/THM CTFs are being formatted properly for the <a href="https://cyogen.github.io">blog<a/>
+- HTB/THM CTF <a href="https://cyogen.github.io">blog<a/>.  (Deployed 3/09/26 & under construction)
